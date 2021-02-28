@@ -14,6 +14,7 @@ Home of Root CNC can be found [Here](https://rootcnc.com/)
 
 ## Video
 Youtube Videos [Here](https://youtu.be/O-uVevOGlKc)
+
 Youtube Videos can be found [Here](https://www.youtube.com/sailorpete12)
 
 ## Slides 
@@ -34,3 +35,11 @@ CHEST HANDLES 105MM POLISHED SILVER 2 PACK (25668) [Here](https://www.screwfix.c
 | Frame_Rear         | 1     |
 | Frame_SideLeft_Right         | 2      |
 | Frame_Top_Base         | 2      |
+
+## How to print
+| Settings                  | Value    |
+|----------------------------------|----------|
+|Bottom layers           | 3|
+|Perimters               | 2|
+|Infill                | 0%|
+|Top layers 	         | 0|
