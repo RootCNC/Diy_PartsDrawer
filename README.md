@@ -1,4 +1,4 @@
-<img align="right" width=175 src="Media/R_Logo.png" />
+<img align="right" width=175 src="Media/Logo.jpg" />
 
 # Diy Part Drawer System 
 
